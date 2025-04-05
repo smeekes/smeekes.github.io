@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Stephan Smeekes",
-    "section": "",
-    "text": "Welcome to the Personal Website of Stephan Smeekes\nI am Professor of Econometrics at the Department of Quantitative Economics of the School of Business and Economics, Maastricht University.\nMy main research interests lie in the statistical analysis of time series data, combining techniques on the interface between econometrics, statistics and data science. Much of my research involves uncertainty quantification, often using the bootstrap, and the analysis of high-dimensional “Big Data” time series. Among the applications I consider are, long-run trends in macroeconomic and climatological time series, inference on risk measures for financial series, and the forecasting of macroeconomic and financial time series.\nI led the NWO Veni project Bootstrap Methods for Time-Varying Processes and the NWO Vidi project Inference for High-Dimensional Econometric Time Series, and was a member of the Dutch Young Academy (De Jonge Akademie).\nOn this website you can find information about me, my research and teaching, as well as software and code to implement several of the econometric and statistical techniques I developed. Finally I collected some useful links and more."
-  }
-]
