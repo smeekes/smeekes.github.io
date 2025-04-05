@@ -1,0 +1,29 @@
+---
+title: "Research"
+title-block-banner: img/Trends.png
+---
+
+```{r setup, echo = FALSE}
+source("files/CreatePubs.R")
+```
+
+### Publications
+
+```{r pubs, echo = FALSE, results = 'asis'}
+texts <- read.csv("files/Pubs.csv")
+cat(create_markdown(texts, type = "article"))
+```
+
+### Book Chapters
+
+```{r bc, echo = FALSE, results = 'asis'}
+texts <- read.csv("files/BCs.csv")
+cat(create_markdown(texts, type = "chapter"))
+```
+
+### Working Papers
+
+```{r wp, echo = FALSE, results = 'asis'}
+texts <- read.csv("files/WPs.csv")
+cat(create_markdown(texts, type = "wp"))
+```

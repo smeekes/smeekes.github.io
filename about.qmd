@@ -1,0 +1,160 @@
+---
+title: "About Me"
+title-block-banner: img/VaR.png
+page-layout: full
+about:
+  template: trestles
+  image: img/Smeekes_mod.jpg
+  links:
+    - icon: file-pdf-fill
+      text: Full CV
+      href: files/CV_Smeekes.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stephan-smeekes/
+    - icon: github
+      text: Github
+      href: https://github.com/smeekes
+---
+
+##### Prof. dr. Stephan Smeekes
+**Professor of Econometrics**
+
+Department of Quantitative Economics<br>
+School of Business and Economics<br>
+Maastricht University
+
+::: {.callout-note collapse="true"}
+## Professional Experience
+
+**Maastricht University** | *Professor of Econometrics* | 2024 - present
+
+**Maastricht University** | *Associate Professor* | 2015 - 2024
+
+**Maastricht University** | *Assistant Professor* | 2012 - 2015
+
+**Maastricht University** | *Postdoctoral Researcher* | 2009 - 2012
+
+:::
+
+::: {.callout-note collapse="true"}
+## Education
+
+**Maastricht University** | *PhD in Economics* | 2004 - 2009<br>
+[Bootstrapping Nonstationary Time Series](https://doi.org/10.26481/dis.20090702ss)<br>
+*Supervisors:* Prof.dr. Jean-Pierre Urbain and Prof.dr. Franz C. Palm 
+
+**Maastricht University** | *BSc & MSc in Econometrics and Operations Research* | 2000 - 2004
+
+:::
+
+::: {.callout-note collapse="true"}
+## Research Interests
+
+* Time Series Econometrics
+* Bootstrap and Resampling Methods
+* High-Dimensional Statistics
+* Climate Econometrics
+* Macro-Econometrics
+* Panel Data
+* Nonparametric Statistics
+* Official Statistics
+
+:::
+
+::: {.callout-note collapse="true"}
+## Grants, Honors and Awards
+**Elected Member** | [KNAW Young Academy](https://www.dejongeakademie.nl/) | 2019 - 2024
+
+**Excellent Undergraduate Educator Award** | Maastricht University, School of Business and Economics | 2017
+
+**Vidi grant** | NWO | [Inference for High-Dimensional Econometric Time Series](https://www.nwo.nl/projecten/452-17-010-0) | 2017 - 2022
+
+**Research Talent grant** | NWO | [Bootstrap Inference for Risk Measures](https://www.nwo.nl/projecten/406-15-020-0) | *with E. Beutner, F.C. Palm and A. Heinemann* | 2015 - 2019
+
+**Veni grant** | NWO | [Bootstrap Methods for Time-Varying Processes](https://www.nwo.nl/projecten/451-12-006-0) | 2013 - 2016
+
+**Excellent Young Scholar Award** | Maastricht University, School of Business and Economics | 2012 
+
+**Christiaan Huygens Science Award** | [Mathematics, Actuarial Science and Econometrics](https://christiaanhuygensprijs.nl/dr-s-smeekes/) | 2012
+
+**Open Competition post-doc grant** | NWO | [Bootstrap Methods for Nonstationary Time Series and Panel Data](https://www.nwo.nl/projecten/400-09-191-0) | *with J.-P. Urbain and F.C. Palm* | 2010 - 2013
+
+**Open Competition PhD grant** | NWO | [Bootstrapping Nonstationary Time Series](https://www.nwo.nl/projecten/400-05-095-0) | *with J.-P. Urbain and F.C. Palm* | 2006 - 2009
+
+:::
+
+::: {.callout-note collapse="true"}
+## PhD Supervision
+
+[Marie Corillon](https://www.linkedin.com/in/mariecorillon/) | *Aggregation Schemes for High-Dimensional Time Series* | with I. Wilms | 2023 - 2027
+
+[Enrico Wegner](https://enweg.github.io/) | *Causality in non-linear macro-econometrics* | with I. Wilms and L. Lieb | 2023 - 2027
+
+[Adam Jassem](https://www.linkedin.com/in/adam-jassem-80165382/) | *Enrichment of economic and marketing models with unstructured text data* | with M. Wetzels, N. Basturk and R.J. Almeida | 2018 - 2022
+
+[Robert Adamek](https://sites.google.com/view/robertadamek) | *Lasso-Based Inference for High-Dimensional Time Series* | with I. Wilms | Defended Dec 5, 2022
+
+[Luca Margaritella](https://sites.google.com/view/luca-margaritella) | *Inference in High-Dimensional Time Series Models* | with A. Hecq | Defended Nov 8, 2021
+
+[Caterina Schiavoni](https://www.linkedin.com/in/caterinaschiavoni/) | *Multivariate State Space Methods for Official Statistics and Climate Modelling* | with J. van den Brakel and F.C. Palm | Defended Nov 4, 2021
+
+[Yicong Lin](http://yiconglin.com/) | *Essays on Nonstationary Nonlinear Models* | with E. Beutner | Defended Oct 6, 2021
+
+[Etienne Wijler](https://sites.google.com/view/etiennewijler) | *High-dimensional time series analysis: unit roots, cointegration and forecasting* | with A. Hecq and J.-P. Urbain | Defended Jan 14, 2021
+
+[Marina Friedrich](https://sites.google.com/view/mfriedrich) | *Bootstrap inference for environmental trends* | with E. Beutner, J.-P. Urbain and F.C. Palm | Defended Dec 10, 2020
+
+[Alexander Heinemann](https://www.linkedin.com/in/alexander-heinemann-1638b5182/) | *Bootstrap Inference for Risk Measures* | with E. Beutner and F.C. Palm | Defended Jun 20, 2019
+
+[Hanno Reuvers](https://hannoreuvers.github.io/) | *Vector Autoregressions: Lag Order Uncertainty and Least Absolute Deviations* | with F.C. Palm and J.-P. Urbain | Defended May 14, 2018
+
+:::
+
+::: {.callout-note collapse="true"}
+## Management and Committees
+
+**Disability Inclusion Group** | Maastricht University | 2025 - present
+
+**Management Team** | Department of Quantitative Economics | 2024 - present
+
+**Programme Coordinator** | MSc Econometrics and Operations Research | 2020 - present
+
+**Board of Admission** | MSc Economic and Financial Research | 2017 - present
+
+**Board of Admission** | MSc Econometrics and Operations Research | 2016 - present
+
+**Programme Committee** | [Netherlands Econometric Study Group (NESG)](https://sbe.maastrichtuniversity.nl/nesg/) | 2013 - present
+
+**Moonshot Think-Tank** | Maastricht University - MUMC+ Collaboration | 2024
+
+**Chair of Local Organizing Committee** | [NESG 2024 conference](https://sbe.maastrichtuniversity.nl/nesg/wp-content/uploads/sites/3/2024/05/NESG2024_Maastricht-1.pdf), Maastricht | 2024
+
+**Jury** | Christiaan Huygens Science Award | 2024
+
+**Scientific Committee** | [7th conference on Econometric Models of Climate Change (EMCC-VII)](https://emcc-vii-2023.sciencesconf.org/), Amsterdam | 2023
+
+**Assessment Panel Social Sciences** | NWO SGW Vici Grants 2022 | 2022 - 2023
+
+**Chair of Local Organizing Committee** | [2nd Workshop on Dimensionality Reduction and Inference in High-Dimensional Time Series](https://sbe.maastrichtuniversity.nl/hdts2020/), Maastricht | 2022
+
+**Chair of Local Organizing Committee** | [Workshop on Environmental Time Series Analysis](https://sbe.maastrichtuniversity.nl/hdts2020/workshop-on-environmental-time-series-analysis/), Maastricht | 2022
+
+**Chair of Local Organizing Committee** | [Online Workshop on Dimensionality Reduction and Inference in High-Dimensional Time Series](https://sbe.maastrichtuniversity.nl/hdts2020/), Maastricht | 2021
+
+**Jury** | KNAW Descartes-Huygensprijs | 2020 + 2021
+
+**Jury** | KNAW Onderwijsprijs (Education Award) | 2020 + 2021
+
+**Assessment Panel Economics and Business** | NWO SGW Vidi Grants 2019 | 2019 - 2020
+
+**Deputy Theme Leader** | GSBE Research Theme on Data-Driven Decision Making (D3M), Maastricht University | 2017 - 2020
+
+**Local Organizing Committee** | European Seminar on Bayesian Econometrics (ESOBE), Maastricht | 2017
+
+**Local Organizing Committee** | 2nd Maastricht Workshop on Advances in Quantitative Economics | 2016
+
+**Chair of Local Organizing Committee** | [NESG 2015 conference](https://sbe.maastrichtuniversity.nl/nesg/wp-content/uploads/sites/3/2022/06/NESG2015_Maastricht.pdf), Maastricht | 2015
+
+:::
+

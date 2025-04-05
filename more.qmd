@@ -1,0 +1,65 @@
+---
+title: "Links and More"
+title-block-banner: img/Jungfraujoch.png
+reference-location: document
+---
+
+### Personal Links {#sec-personal}
+
+* The [Netherlands Econometric Study Group (NESG)](http://www.nesg.nl/)
+
+* My [ORCiD](https://orcid.org/0000-0002-0157-639X)
+
+* My profile on [LinkedIn](https://www.linkedin.com/in/stephan-smeekes/)
+
+* My [GitHub](https://github.com/smeekes) page
+
+* My research on [Google Scholar](https://scholar.google.com/citations?user=qn9yhL4AAAAJ)
+
+* My [profile page](https://www.maastrichtuniversity.nl/s.smeekes) at Maastricht University
+
+* My research at [IDEAS](http://ideas.repec.org/e/psm94.html) and [EconPapers](http://econpapers.repec.org/RAS/psm94.htm)
+
+### Interdisciplinary Research Collaborations
+
+* The [Infrared Group of Atmospheric and Solar Physics (GIRPAS)](https://www.girpas.uliege.be/cms/c_5158043/en/girpas) led by [Emmanuel Mahieu](https://www.girpas.uliege.be/cms/c_5158071/fr/girpas-repertoire?uid=u014682) at the University of Liège.[^1]
+
+[^1]: The group operates their research station on the Sphinx Observatory at the Jungfraujoch, as seen in the banner of this page on a 2008 holiday picture.
+
+* The [SoilTemp Database](https://www.soiltempproject.com/) project maintained by the team of [Jonas Lembrechts](https://the3dlab.org/).
+
+* The [Data Science team](https://www.mumc.nl/research/kemta/ons-team/kemta-icu) at the Intensive Care Unit of the MUMC+ hospital.
+
+### Maastricht University
+
+* [Maastricht University](http://www.maastrichtuniversity.nl/)
+
+* [School of Business and Economics](http://www.maastrichtuniversity.nl/sbe)
+
+* [Department of Quantitative Economics](https://www.maastrichtuniversity.nl/research/department-quantitative-economics)
+
+* Information about the [BSc Econometrics and Operations Research](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-econometrics-and-operations-research-0)
+
+* Information about the [MSc Econometrics and Operations Research](https://www.maastrichtuniversity.nl/education/master/master-econometrics-and-operations-research)
+
+* Information about the [Pre-Master in Econometrics and Operations Research](https://www.maastrichtuniversity.nl/pre-masters-econometrics-and-operations-research)
+
+* The [Data Science@UM](https://www.maastrichtuniversity.nl/research/data-science-um) community, in which all data science expertise within Maastricht University is collected
+
+* The [Mathematics Centre Maastricht (MCM)](https://www.maastrichtuniversity.nl/research/mathematics-centre-maastricht-mcm), which unites research, education and outreach in mathematics across Maastricht University
+
+### In the Media
+
+* Every year I contribute to the annual question posted by the website [Beste-ID](https://www.beste-id.nl/auteurs/stephan-smeekes).
+
+* My research in 100 seconds: [How to Make Sense of Your Data?](https://umio-prime.nl/how-to-make-sense-of-your-data/)
+
+* In October 2020, Etienne Wijler and I gave an online talk for UMIO in the Afternoon Tea & Talent session [How Smart Is Your Algorithm?](https://umio-prime.nl/how-smart-is-your-algorithm/) Also see the accompanying article [A Taste of Big Data Analysis: Sour Milk or Luxury Ice Cream?](https://umio-prime.nl/a-taste-of-big-data-analysis/).
+
+* In March 2020, I participated in the Dutch popular science TV show Knappe Koppen. In the episode [When will the next economic crisis take place?](https://www.avrotros.nl/knappe-koppen/gemist/detail/item/wanneer-komt-de-volgende-economische-crisis-11-03-2020/) I gave a mini-lecture about economic forecasting and the difficulties that we encounter in the process.[^2]
+
+[^2]: The recording took place in January 2020, before the Covid crisis started to unfold. In hindsight this makes my answer "I have no idea about the next crisis" a bit silly... On the other hand, it does illustrate why predicting crises is so complicated!
+
+* I gave an interview to university newspaper De Observant about spurious correlations. Links to the [Dutch](https://www.observantonline.nl/Home/Artikelen/articleType/ArticleView/articleId/16535/Gevecht-tegen-onzinstatistiek) and [English](https://www.observantonline.nl/English/Home/Articles/articleType/ArticleView/articleId/16536/Fight-against-nonsense-statistics) versions.
+
+* My [introduction video](https://www.youtube.com/watch?v=6aEsAAM1lqI) (in Dutch) for the [Young Academy](https://www.dejongeakademie.nl/) explains my research in very brief terms.

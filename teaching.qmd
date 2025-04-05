@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+title-block-banner: img/Derivation.png
+reference-location: margin
+citation-location: margin
+---
+
+### Current Teaching
+
+I mostly teach in the [BSc](https://curriculum.maastrichtuniversity.nl/education/bachelor/bachelor-econometrics-and-operations-research) and [MSc programmes in Econometrics and Operations Research](https://www.maastrichtuniversity.nl/education/master/master-econometrics-and-operations-research), but also in the [BSc Economics and Business Economics](https://curriculum.maastrichtuniversity.nl/education/bachelor/bachelor-economics-and-business-economics) and the [MSc Economic and Financial Research](https://www.maastrichtuniversity.nl/education/master/master-economic-and-financial-research). 
+
+My teaching entails both course coordination (including lecturing and tutoring) and thesis supervsion. I am also currently the programme coordinator for the [MSc Econometrics and Operations Research](https://www.maastrichtuniversity.nl/education/master/master-econometrics-and-operations-research) programme and the corresponding [pre-master's programme](https://www.maastrichtuniversity.nl/pre-masters-econometrics-and-operations-research).
+
+Currently I teach the following courses:
+
+* [EBC4218](http://code.unimaas.nl/Code/Display?SearchString=EBC4218) – Big Data Econometrics ^*MSc EOR + EFR*^
+* [EBS4043](http://code.unimaas.nl/Code/Display?SearchString=EBS4043) – Computational Research Skills ^*MSc EOR*^
+* [EBS4044](http://code.unimaas.nl/Code/Display?SearchString=EBS4044) – Computational Research Skills ^*MSc EFR*^
+* [EBC2107](http://code.unimaas.nl/Code/Display?SearchString=EBC2107) – Mathematical Statistics ^*BSc EOR*^
+* [EBC2011](http://code.unimaas.nl/Code/Display?SearchString=EBC2011) – Quantitative Methods 3 - Statistics ^*BSc EBE*^
+* [EBS4024](http://code.unimaas.nl/Code/Display?SearchString=EBS4024) – Writing a Referee Report ^*MSc EFR*^
+
+::: {.column-margin}
+*EOR*: Econometrics and Operations Research <br>
+*EFR*: Economic and Financial Research <br>
+*EBE*: Economics and Business Economics
+:::
+
+### Online Education Materials
+
+#### Lecture Notes on the Bootstrap
+
+For use in my courses I wrote introductory notes about the bootstrap. They are available [here](files/Bootstrap.pdf) under a [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) license. I hope they prove to be useful for studying or teaching the bootstrap, and I would be happy to hear your feedback about them (both things you like and don't like).
+
+#### Time Series Analysis and Forecasting - BlueCourses
+
+Ines Wilms, Nalan Basturk, Etienne Wijler and I have developed the online course [Time Series Analysis and Forecasting](https://www.bluecourses.com/courses/course-v1:bluecourses+BC20+2021_/about), which teaches the essentials of modern time series analysis with R. It is hosted by [BlueCourses](https://www.bluecourses.com), which transfers part of the fee to organizations protecting the oceans.
