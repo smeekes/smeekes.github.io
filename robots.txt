@@ -1,1 +1,1 @@
-Sitemap: https://smeekes.github.io/sitemap.xml
+Sitemap: https://stephansmeekes.com/sitemap.xml
