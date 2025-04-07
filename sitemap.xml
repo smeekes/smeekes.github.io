@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stephansmeekes.com/teaching.html</loc>
-    <lastmod>2025-04-07T11:59:20.206Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stephansmeekes.com/research.html</loc>
-    <lastmod>2025-04-07T11:59:20.204Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stephansmeekes.com/index.html</loc>
-    <lastmod>2025-04-07T11:59:20.204Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stephansmeekes.com/about.html</loc>
-    <lastmod>2025-04-07T11:59:20.157Z</lastmod>
+    <loc>https://stephansmeekes.com/software.html</loc>
+    <lastmod>2025-04-07T15:42:33.207Z</lastmod>
   </url>
   <url>
     <loc>https://stephansmeekes.com/more.html</loc>
-    <lastmod>2025-04-07T11:59:20.204Z</lastmod>
+    <lastmod>2025-04-06T15:14:43.204Z</lastmod>
   </url>
   <url>
-    <loc>https://stephansmeekes.com/software.html</loc>
-    <lastmod>2025-04-07T12:04:52.645Z</lastmod>
+    <loc>https://stephansmeekes.com/research.html</loc>
+    <lastmod>2025-04-06T15:14:43.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stephansmeekes.com/teaching.html</loc>
+    <lastmod>2025-04-06T15:14:43.207Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stephansmeekes.com/index.html</loc>
+    <lastmod>2025-04-06T15:14:43.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stephansmeekes.com/about.html</loc>
+    <lastmod>2025-04-06T15:14:43.144Z</lastmod>
   </url>
 </urlset>
