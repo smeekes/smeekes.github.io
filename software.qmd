@@ -6,7 +6,7 @@ title-block-banner: img/CodeSmall.png
 ### bootUR {#sec-bootUR}
 ##### R package for bootstrap unit root tests 
 
-The R package `bootUR`, co-authored with Ines Wilms, is available on [CRAN](https://cran.r-project.org/package=bootUR) and [GitHub](https://github.com/smeekes/bootUR). In this package we implement several bootstrap unit root, both for univariate and multivariate time series, including (but not limited to) all the unit root tests proposed in my papers. For details see the [website](https://stephansmeekes.com/bootUR/) or the accompanying [JSS paper](https://doi.org/10.18637/jss.v106.i12).
+The R package `bootUR`, co-authored with Ines Wilms, is available on [CRAN](https://cran.r-project.org/package=bootUR) and [GitHub](https://github.com/smeekes/bootUR). In this package we implement several bootstrap unit root tests, both for univariate and multivariate time series, including (but not limited to) all the unit root tests proposed in my papers. For details see the [website](https://stephansmeekes.com/bootUR/) or the accompanying [JSS paper](https://doi.org/10.18637/jss.v106.i12).
 
 The package encompasses all code available below that relates to unit root testing in a coherent and user-friendly way. As a consequence, all bootstrap unit root testing codes below are not updated anymore, as I will only keep the package up to date.
 
