@@ -32,16 +32,17 @@ The R package `HDGCvar`, developed by Luca Margaritella, is available on [GitHub
 
 The R package `PAGFL`, developed by Paul Haimerl, is available on [CRAN](https://cran.r-project.org/package=PAGFL) and [GitHub](https://github.com/Paul-Haimerl/PAGFL). This package allows for estimating latent group structures by implementing the pairwise adaptive group fused Lasso (PAGFL) proposed by [Mehrabani (2023)](https://doi.org/10.1016/j.jeconom.2022.12.002) and its extendsion to time-varying coefficient functions as proposed in the paper "Estimation of Latent Group Structures in Time-Varying Panel Data Models".
 
-### TransmissionChannelAnalysis.jl {#sec-TCA}
-##### Julia package for estimating dynamic transmission channels
+### Transmission Channel Analysis {#sec-TCA}
+##### Toolbox for estimating dynamic transmission channels
 
-The Julia package `TransmissionChannelAnalysis.jl`, developed by Enrico Wegner, is available on [GitHub](https://github.com/enweg/TransmissionChannelAnalysis.jl). This package allows for estimating transmission channels as proposed in the paper "Transmission Channel Analysis in Dynamic Models".
+The [TCA toolbox](https://enweg.github.io/tca-website/) developed by Enrico Wegner allows for estimating transmission channels as proposed in the paper "Transmission Channel Analysis in Dynamic Models". 
+There is both a [Julia version](https://github.com/enweg/TransmissionChannelAnalysis.jl) and [Matlab version](https://github.com/enweg/tca-matlab-toolbox) available.
 
 ### Individual Codes {#sec-codes}
 ##### Scripts not available in a package
 
 ::: {.callout-note}
-The codes are provided without any warranty whatsoever and will  not be updated except to fix bugs. All codes are provided under a [GPL 2 or later](https://www.gnu.org/licenses/licenses.html#GPL) license. To cite the codes, please cite the relevant papers and provide a link to this website.
+The codes are provided without any warranty whatsoever and will not be updated except to fix bugs. All codes are provided under a [GPL 2 or later](https://www.gnu.org/licenses/licenses.html#GPL) license unless stated otherwise. To cite the codes, please cite the relevant papers and provide a link to this website.
 :::
 
 ----
