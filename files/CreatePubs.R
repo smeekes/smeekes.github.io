@@ -124,7 +124,7 @@ create_margin_article <- function(texts){
     }
     if (!is.na(texts$cref[i])) {
       if (nchar(texts$cref[i]) > 0) {
-        elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code"))
+        elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code-slash"))
       }
     }
     if (!is.na(texts$cref[i])) {
@@ -160,7 +160,7 @@ create_margin_wp <- function(texts){
   for (i in 1:n) {
     elements_i <- NULL
     if (nchar(texts$cref[i]) > 0){
-      elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code"))
+      elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code-slash"))
     }
     if (nchar(texts$repl[i]) > 0){
       elements_i <- c(elements_i, create_link("Replication", texts$repl[i], "arrow-repeat"))
