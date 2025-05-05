@@ -12,7 +12,7 @@ website:
     background: primary
     foreground: light
     logo: "img/wlogoUM.png"
-    right:
+    left:
       - href: index.qmd
         text: Home
       - href: about.qmd
@@ -26,11 +26,12 @@ website:
 format:
   html:
     theme: 
-    - cosmo
-    - custom.scss
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
     toc-location: left
     toc-expand: true
     link-external-newwindow: true
     reference-location: margin
+    respect-user-color-scheme: true

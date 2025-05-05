@@ -16,6 +16,7 @@ $gray-700: #7b8a8b !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
+$boxx:    mix($UMlblue, $white, 5) !default;
 
 
 $primary:       $UMdblue !default;
@@ -23,16 +24,17 @@ $secondary:     $UMlblue !default;
 $success:       $UMlblue !default;
 $info:          $UMlblue !default;
 $warning:       $UMorangered !default;
-$danger:        $UMred !default;
-$light:         $gray-100 !default;
-$dark:          $gray-700 !default;
+$danger:        $boxx !default;
+$light:         mix($UMlblue, $white, 10) !default;
+$dark:          mix($UMlblue, $black, 60)  !default;
 
-$link-color:                $success !default;
+$link-color: $success !default;
 
 $link-decoration: none !default;
 
 $callout-color-note: $UMlblue;
 $callout-color-tip: $UMlblue;
+
 
 /*-- scss:rules --*/
 h1, h3 {

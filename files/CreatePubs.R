@@ -60,13 +60,17 @@ create_archive_entry <- function(texts) {
   paste0(texts$type, " ", texts$number)
 }
 
+create_icon <- function(icon) {
+  paste0("<i class=\"bi bi-", icon, "\"></i>")
+}
+
 create_link <- function(txt, urlt, icon = NULL, lsp = TRUE) {
   out <- ""
   if (!is.null(icon)) {
     if (lsp) {
-      out <- paste0(out, "&nbsp;![](img/", icon, ") ")
+      out <- paste0(out, "&nbsp;", create_icon(icon), " ")
     } else {
-      out <- paste0(out, "![](img/", icon, ") ")
+      out <- paste0(out, create_icon(icon), " ")
     }
   }
   out <- paste0(out, "[", txt, "](", urlt, ")")
@@ -81,7 +85,7 @@ create_article <- function(texts) {
   paste0(create_authors(texts$author), " (", texts$year, "). ", 
          create_link(texts$title, paste0("https://doi.org/", texts$doi)), ". ",
          create_journal_entry(texts), ".",
-         ifelse(texts$OA == 1, " ![](img/unlock.svg)", ""),
+         ifelse(texts$OA == 1, paste0(" ", create_icon("unlock")), ""),
          "\n\n")
 }
 
@@ -99,14 +103,14 @@ create_bookchapter <- function(texts, type = "html") {
          ifelse(nchar(texts$series) > 0, 
                 paste0(". *", texts$series, "*, vol", dotspace, " ", texts$volume), ""),
          ifelse(nchar(texts$publisher) > 0, paste0(", ", texts$publisher, "")), ".",
-         ifelse(texts$OA == 1, " ![](img/unlock.svg)", ""),
+         ifelse(texts$OA == 1, paste0(" ", create_icon("unlock")), ""),
          "\n\n")
 }
 
 create_wp <- function(texts) {
   paste0(create_authors(texts$author), " (", texts$year, "). ", 
          create_link(texts$title, paste0("https://doi.org/", texts$doi)), ". ",
-         create_archive_entry(texts), ".", " ![](img/unlock.svg)", "\n\n")
+         create_archive_entry(texts), ".", paste0(" ", create_icon("unlock")), "\n\n")
 }
 
 create_margin_article <- function(texts){
@@ -116,33 +120,33 @@ create_margin_article <- function(texts){
   for (i in 1:n) {
     elements_i <- NULL
     if (texts$OA[i] == 0){
-      elements_i <- c(elements_i, create_link(texts$OAtype[i], texts$OAref[i], "unlock.svg"))
+      elements_i <- c(elements_i, create_link(texts$OAtype[i], texts$OAref[i], "unlock"))
     }
     if (!is.na(texts$cref[i])) {
       if (nchar(texts$cref[i]) > 0) {
-        elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code.svg"))
+        elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code"))
       }
     }
     if (!is.na(texts$cref[i])) {
       if (nchar(texts$repl[i]) > 0){
-      elements_i <- c(elements_i, create_link("Replication", texts$repl[i], "arrow-repeat.svg"))
+      elements_i <- c(elements_i, create_link("Replication", texts$repl[i], "arrow-repeat"))
       }
     }
     if (!is.na(texts$cref[i])) {
       if (nchar(texts$suppl[i]) > 0){
-        elements_i <- c(elements_i, create_link("Supplement", texts$suppl[i], "file-text.svg"))
+        elements_i <- c(elements_i, create_link("Supplement", texts$suppl[i], "file-text"))
       }
     }
     if (!is.na(texts$cref[i])) {
       if (nchar(texts$otherref[i]) > 0){
       elements_i <- c(elements_i, create_link(texts$othername[i], 
-                                              texts$otherref[i], "file-earmark.svg"))
+                                              texts$otherref[i], "file-earmark"))
       }
     }
     nr_elements[i] <- length(elements_i)
     elements[i] <- paste0(elements_i, collapse = "<br>")
     if (nchar(elements[i]) > 0) {
-      elements[i] <- paste0("\n", "::: {.column-margin .bg-light .border .border-primary .rounded}\n",
+      elements[i] <- paste0("\n", "::: {.column-margin .bg-danger .border .rounded}\n",
                             elements[i], "\n:::\n\n")
     }
   }
@@ -156,15 +160,15 @@ create_margin_wp <- function(texts){
   for (i in 1:n) {
     elements_i <- NULL
     if (nchar(texts$cref[i]) > 0){
-      elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code.svg"))
+      elements_i <- c(elements_i, create_link(texts$code[i], texts$cref[i], "code"))
     }
     if (nchar(texts$repl[i]) > 0){
-      elements_i <- c(elements_i, create_link("Replication", texts$repl[i], "arrow-repeat.svg"))
+      elements_i <- c(elements_i, create_link("Replication", texts$repl[i], "arrow-repeat"))
     }
     nr_elements[i] <- length(elements_i)
     elements[i] <- paste0(elements_i, collapse = "<br>")
     if (nchar(elements[i]) > 0) {
-      elements[i] <- paste0("\n", "::: {.column-margin .bg-light .border .border-primary .rounded}\n",
+      elements[i] <- paste0("\n", "::: {.column-margin .bg-danger .border .rounded}\n",
                             elements[i], "\n:::\n\n")
     }
   }

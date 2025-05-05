@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+$UMdblue:    #001C3D !default;
+$UMlblue:  #00A2DB !default;
+$UMorangered:  #E84E10 !default;
+$UMred:     #AE0B12 !default;
+$UMorange:  #F39425 !default;
+$UMdmblue:   mix($UMdblue, white, 30) !default;
+$UMlmblue:   mix($UMlblue, white, 80) !default;
+
+
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #ecf0f1 !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #b4bcc2 !default;
+$gray-600: #95a5a6 !default;
+$gray-700: #7b8a8b !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$gray-bg: #181818 !default;
+$black:    #000 !default;
+$boxx:    mix($UMlblue, $gray-bg, 10) !default;
+
+
+$primary:       $UMdblue !default;
+$secondary:     $UMlblue !default;
+$success:       $UMlmblue !default;
+$info:          $UMlblue !default;
+$warning:       $UMorangered !default;
+$danger:        $boxx !default;
+$light:         mix($UMlblue, $white, 10) !default;
+$dark:          mix($UMlblue, $black, 60)  !default;
+
+$link-color: $success !default;
+
+$link-decoration: none !default;
+
+$callout-color-note: $UMlmblue;
+$callout-color-tip: $UMlmblue;
+
+// Base document colors
+$body-bg: $gray-bg;
+$body-color: $white;
+$code-bg: $gray-800;
+$code-color: $gray-100;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+
+/*-- scss:rules --*/
+h1, h3 {
+  color: $UMdmblue;
+}
+
+h2, h4, h5, h6 {
+  color: $UMlmblue;
+}
