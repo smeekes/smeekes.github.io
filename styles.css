@@ -6,3 +6,5 @@
 p {
   bottom-margin: 1em;
 }
+
+svg { fill=currentColor }
