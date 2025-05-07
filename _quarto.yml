@@ -3,6 +3,7 @@ project:
 
 website:
   title: ""
+  favicon: img/Logo.png
   navbar:
     tools:
     - icon: linkedin
