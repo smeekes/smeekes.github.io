@@ -4,6 +4,7 @@ project:
 website:
   title: ""
   favicon: img/Logo.png
+  draft-mode: unlinked
   navbar:
     tools:
     - icon: linkedin
@@ -13,6 +14,7 @@ website:
     background: primary
     foreground: light
     logo: "img/wlogoUM.png"
+    logo-href: "https://www.maastrichtuniversity.nl/"
     left:
       - href: index.qmd
         text: Home
