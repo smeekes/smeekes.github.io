@@ -1,9 +1,9 @@
 ---
 title: "Time Will Tell: Econometric Intelligence to Unravel a Complex World"
-title-block-banner: img/watchesbanner.png
+title-block-banner: "001C3D"
 toc: false
-draft: true
 navbar: false
+draft: true
 format: 
   html:
     page-layout: full
