@@ -9,12 +9,25 @@ format:
     page-layout: full
 ---
 
+::: {.callout-note}
+## Inauguration Stephan
+<i class="bi bi-calendar"></i> 11 September 2025 -- 16:30 (followed by reception around 17:30)
 
-###### Registration for the inaugural lecture + party of Stephan
+<i class="bi bi-geo-alt-fill"></i> Maastricht University - Aula, Minderbroedersberg 4-6, 6211 LK Maastricht
+
+**Party:**
+
+<i class="bi bi-calendar"></i> 11 September 2025 -- 19:00
+
+<i class="bi bi-geo-alt-fill"></i> Grand Café Maastricht Soiron, Vrijthof 18, 6211 LD Maastricht
+
+:::
+
+### Confirm attendance / absence
 
 [Click here for the English version](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_2ogEFCaQ57cR1Fc?Q_Language=EN)
 
-###### Registratie voor de inauguratie + feest van Stephan
+### Bevestig aanwezigheid / afwezigheid
 
 [Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_2ogEFCaQ57cR1Fc?Q_Language=NL)
 
