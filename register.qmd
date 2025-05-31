@@ -1,0 +1,20 @@
+---
+title: "Time Will Tell: Econometric Intelligence to Unravel a Complex World"
+title-block-banner: img/watchesbanner.png
+toc: false
+draft: true
+navbar: false
+format: 
+  html:
+    page-layout: full
+---
+
+
+###### Registration for the inaugural lecture + party of Stephan
+
+[Click here for the English version](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_2ogEFCaQ57cR1Fc?Q_Language=EN)
+
+###### Registratie voor de inauguratie + feest van Stephan
+
+[Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_2ogEFCaQ57cR1Fc?Q_Language=NL)
+

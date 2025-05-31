@@ -1,8 +1,7 @@
 ---
 title: "Time Will Tell: Econometric Intelligence to Unravel a Complex World"
-title-block-banner: img/watchesbanner.png
+title-block-banner: "001C3D"
 toc: false
-draft: true
 navbar: false
 format: 
   html:
@@ -12,10 +11,8 @@ format:
 
 ###### Registration for the inaugural lecture of Stephan Smeekes
 
-[Click here for the English version](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_0HZ7B7iEnrhbby6?Q_Language=EN)
+[Click here for the English version](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4?Q_Language=EN)
 
 ###### Registratie voor de inauguratie van Stephan Smeekes
 
-[Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_0HZ7B7iEnrhbby6?Q_Language=NL)
-
-<!-- <iframe src="https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_0HZ7B7iEnrhbby6" width="100%" height="800" frameborder="0"></iframe> -->
+[Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4Q_Language=NL)
