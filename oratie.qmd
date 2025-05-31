@@ -9,14 +9,6 @@ format:
     page-layout: full
 ---
 
-::: {.callout-note collapse="true"}
-## Inauguration Stephan
-<i class="bi bi-calendar"></i> 11 September 2025 -- 16:30 (followed by reception around 17:30)
-
-<i class="bi bi-geo-alt-fill"></i> Maastricht University - Aula, Minderbroedersberg 4-6, 6211 LK Maastricht
-
-:::
-
 ### Confirm attendance / absence
 
 [Click here for the English version](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4?Q_Language=EN)
