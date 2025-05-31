@@ -9,7 +9,7 @@ format:
     page-layout: full
 ---
 
-::: {.callout-note}
+::: {.callout-note collapse="true"}
 ## Inauguration Stephan
 <i class="bi bi-calendar"></i> 11 September 2025 -- 16:30 (followed by reception around 17:30)
 
