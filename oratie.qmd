@@ -9,10 +9,10 @@ format:
     page-layout: full
 ---
 
-### Confirm attendance / absence
+### Attendance at reception
 
 [Click here for the English version](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4?Q_Language=EN)
 
-### Bevestig aanwezigheid / afwezigheid
+### Aanwezigheid bij receptie
 
 [Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4Q_Language=NL)
