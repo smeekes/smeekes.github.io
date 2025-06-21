@@ -46,7 +46,7 @@ The codes are provided without any warranty whatsoever and will not be updated e
 :::
 
 ----
-[Code and data](https://doi.org/10.34894/JHVJQS) for replication of the results in the paper "Min(d)ing the President: A text analytic approach to measuring tax news".
+[Code and data](https://doi.org/10.3886/E205441V1) for replication of the results in the paper "Min(d)ing the President: A text analytic approach to measuring tax news".
 [R code](https://github.com/cateschi/Time_varying_correlation) for estimating the state space model proposed in the paper "Time-varying correlations in multivariate unobserved components time series models".
 [R code](code/ClimateAnalysis.zip) and [Python code](https://github.com/girpas-ulg/trendfit) for the trend analysis methods proposed in the paper "A statistical analysis of time trends in atmospheric ethane".
 [R code and datasets](https://github.com/cateschi/KalmanFilter) for the estimation of the high-dimensional state space model proposed in the paper "A dynamic factor model approach to incorporate Big Data in state space models for official statistics".
