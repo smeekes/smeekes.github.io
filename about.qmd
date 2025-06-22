@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-title-block-banner: img/VaR.png
+title-block-banner: img/BannerVaR2.png
 page-layout: full
 about:
   template: trestles

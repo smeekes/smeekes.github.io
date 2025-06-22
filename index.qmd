@@ -1,6 +1,6 @@
 ---
 title: "Stephan Smeekes"
-title-block-banner: img/Bands.png
+title-block-banner: img/WebsiteBannerDark2.png
 toc: false
 ---
 

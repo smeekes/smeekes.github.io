@@ -1,6 +1,6 @@
 ---
 title: "Research"
-title-block-banner: img/Trends.png
+title-block-banner: img/BannerCoint2.png
 ---
 
 ```{r setup, echo = FALSE}
