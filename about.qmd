@@ -17,7 +17,7 @@ about:
       href: https://github.com/smeekes
 ---
 
-##### Prof. dr. Stephan Smeekes
+##### Prof. Dr. Stephan Smeekes
 **Professor of Econometrics**
 
 Department of Quantitative Economics<br>
@@ -42,7 +42,7 @@ Maastricht University
 
 **Maastricht University** | *PhD in Economics* | 2004 - 2009<br>
 [Bootstrapping Nonstationary Time Series](https://doi.org/10.26481/dis.20090702ss)<br>
-*Supervisors:* Prof.dr. Jean-Pierre Urbain and Prof.dr. Franz C. Palm 
+*Supervisors:* Prof. Dr. Jean-Pierre Urbain and Prof. Dr. Franz C. Palm 
 
 **Maastricht University** | *BSc & MSc in Econometrics and Operations Research* | 2000 - 2004
 

@@ -11,12 +11,10 @@ I am a Professor of Econometrics in the Department of Quantitative Economics at 
 
 My research focuses on the statistical analysis of time series data - developing methods at the intersection of econometrics, statistics, and data science. I specialize in modeling complex dynamic systems involving multiple time series, with a strong emphasis on uncertainty quantification, often leveraging bootstrap techniques.
 
-I apply these tools to explore causality, trends, forecasting, and risk measurement across a range of fields - from macroeconomics and finance to climate, environmental and medical applications.
-
-I am passionate about inter- and transdisciplinary research that forges new connections between fields, aiming for both academic insight and real-world impact. I am open to collaborations that challenge conventional boundaries.
-
-In parallel, I am committed to teaching statistics, econometrics, and computational data science at all levels - from undergraduate to postgraduate.
+I apply these tools to explore causality, trends, forecasting, and risk measurement across a range of fields - from macroeconomics and finance to interdisciplinary research on climate, environmental and medical applications.
 
 I led the NWO Veni project *Bootstrap Methods for Time-Varying Processes* and the NWO Vidi project  *Inference for High-Dimensional Econometric Time Series*, and was a member of the Dutch Young Academy ([De Jonge Akademie](https://www.dejongeakademie.nl/)).
+
+I also teach various courses in statistics, econometrics, and computational data science at  undergraduate and graduate levels.
 
 On this website you can find information about [me](about.qmd), my [research](research.qmd) and [teaching](teaching.qmd), as well as [software and code](software.qmd) to implement several of the econometric and statistical techniques I developed. Finally I collected some useful [links and more](more.qmd).
