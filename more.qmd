@@ -6,19 +6,19 @@ reference-location: document
 
 ### Personal Links {#sec-personal}
 
-* The [Netherlands Econometric Study Group (NESG)](http://www.nesg.nl/)
+* [Netherlands Econometric Study Group (NESG) <i class="bi bi-graph-up"></i>](http://www.nesg.nl/)
 
-* My [ORCiD](https://orcid.org/0000-0002-0157-639X)
+* [ORCiD {{< ai orcid >}}](https://orcid.org/0000-0002-0157-639X)
 
-* My profile on [LinkedIn](https://www.linkedin.com/in/stephan-smeekes/)
+* [LinkedIn <i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/stephan-smeekes/)
 
-* My [GitHub](https://github.com/smeekes) page
+* [GitHub <i class="bi bi-github"></i>](https://github.com/smeekes)
 
-* My research on [Google Scholar](https://scholar.google.com/citations?user=qn9yhL4AAAAJ)
+* [Google Scholar {{< ai google-scholar >}}](https://scholar.google.com/citations?user=qn9yhL4AAAAJ)
 
-* My [profile page](https://www.maastrichtuniversity.nl/s.smeekes) at Maastricht University
+* [Maastricht University profile page <i class="bi bi-person-square"></i>](https://www.maastrichtuniversity.nl/s.smeekes)
 
-* My research at [IDEAS](http://ideas.repec.org/e/psm94.html) and [EconPapers](http://econpapers.repec.org/RAS/psm94.htm)
+* [EconPapers](http://econpapers.repec.org/RAS/psm94.htm) & [IDEAS {{< ai ideas-repec >}}](http://ideas.repec.org/e/psm94.html)
 
 ### Interdisciplinary Research Collaborations
 

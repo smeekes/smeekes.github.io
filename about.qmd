@@ -6,7 +6,7 @@ about:
   template: trestles
   image: img/Smeekes_mod.jpg
   links:
-    - icon: file-pdf-fill
+    - icon: file-person-fill
       text: Full CV
       href: files/CV_Smeekes.pdf
     - icon: linkedin
@@ -15,6 +15,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/smeekes
+    - icon: ORCiD
+      text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0157-639X
 ---
 
 ##### Prof. Dr. Stephan Smeekes
