@@ -15,4 +15,4 @@ format:
 
 ### Aanwezigheid bij receptie
 
-[Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4Q_Language=NL)
+[Klik hier voor de Nederlandse versie](https://maastrichtuniversity.eu.qualtrics.com/jfe/form/SV_eWi6asEuliVVoX4?Q_Language=NL)
