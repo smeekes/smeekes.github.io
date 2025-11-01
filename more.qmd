@@ -49,6 +49,7 @@ reference-location: document
 * The [Mathematics Centre Maastricht (MCM)](https://www.maastrichtuniversity.nl/research/mathematics-centre-maastricht-mcm), which unites research, education and outreach in mathematics across Maastricht University
 
 ### In the Media
+* My inaugural lecture [Time Will Tell: Econometric Intelligence to Unravel a Complex World](https://www.maastrichtuniversity.nl/events/inaugural-lecture-dr-stephan-smeekes) from September 11, 2025 is available on [YouTube](https://www.youtube.com/watch?v=RXxCNeKzLbg).
 
 * Every year I contribute to the annual question posted by the website [Beste-ID](https://www.beste-id.nl/auteurs/stephan-smeekes).
 

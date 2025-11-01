@@ -90,6 +90,10 @@ Maastricht University
 ::: {.callout-note collapse="true"}
 ## PhD Supervision
 
+[Paul Doekhie](https://www.linkedin.com/in/paul-doekhie-0b9b87273/) | *Machine learning for econometric modelling of latent variables* | with T. Hartl | 2025 - 2029
+
+[Ties Bos](https://www.linkedin.com/in/ties-bos-579601229/) | *Where Econometrics Meets Medicine: An Interdisciplinary Data-Driven Approach to Clinical Decision-Making* | with M. Schumann, B. van Bussel and N. Peppelenbosch | 2025 - 2029
+
 [Marie Corillon](https://www.linkedin.com/in/mariecorillon/) | *Aggregation Schemes for High-Dimensional Time Series* | with I. Wilms | 2023 - 2027
 
 [Enrico Wegner](https://enweg.github.io/) | *Causality in non-linear macro-econometrics* | with I. Wilms and L. Lieb | 2023 - 2027
@@ -117,7 +121,8 @@ Maastricht University
 ::: {.callout-note collapse="true"}
 ## Management and Committees
 
-**Disability Inclusion Group** | Maastricht University | 2025 - present
+#### Structural Positions
+[**Disability Inclusion Group**](https://www.maastrichtuniversity.nl/disability-inclusion-group-dig) | Maastricht University | 2025 - present
 
 **Management Team** | Department of Quantitative Economics | 2024 - present
 
@@ -129,11 +134,17 @@ Maastricht University
 
 **Programme Committee** | [Netherlands Econometric Study Group (NESG)](https://sbe.maastrichtuniversity.nl/nesg/) | 2013 - present
 
+**Deputy Theme Leader** | GSBE Research Theme on Data-Driven Decision Making (D3M), Maastricht University | 2017 - 2020
+
+#### Situational Activities
+
+**Assessment & Selection Committee** | [TDCC SSH Challenge Call](https://tdcc.nl/projects/project-initiatives-ssh/nwo-tdcc-ssh-call-2025/) | 2025
+
 **Moonshot Think-Tank** | Maastricht University - MUMC+ Collaboration | 2024
 
 **Chair of Local Organizing Committee** | [NESG 2024 conference](https://sbe.maastrichtuniversity.nl/nesg/wp-content/uploads/sites/3/2024/05/NESG2024_Maastricht-1.pdf), Maastricht | 2024
 
-**Jury** | Christiaan Huygens Science Award | 2024
+**Jury** | [Christiaan Huygens Science Award](https://christiaanhuygensprijs.nl/) | 2024
 
 **Scientific Committee** | [7th conference on Econometric Models of Climate Change (EMCC-VII)](https://emcc-vii-2023.sciencesconf.org/), Amsterdam | 2023
 
@@ -147,11 +158,9 @@ Maastricht University
 
 **Jury** | KNAW Descartes-Huygensprijs | 2020 + 2021
 
-**Jury** | KNAW Onderwijsprijs (Education Award) | 2020 + 2021
+**Jury** | [KNAW Onderwijsprijs (Education Award)](https://www.knaw.nl/fondsen-en-prijzen/knaw-onderwijsprijs) | 2020 + 2021
 
 **Assessment Panel Economics and Business** | NWO SGW Vidi Grants 2019 | 2019 - 2020
-
-**Deputy Theme Leader** | GSBE Research Theme on Data-Driven Decision Making (D3M), Maastricht University | 2017 - 2020
 
 **Local Organizing Committee** | European Seminar on Bayesian Econometrics (ESOBE), Maastricht | 2017
 
