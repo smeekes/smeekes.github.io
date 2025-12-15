@@ -1,4 +1,5 @@
 id,author,title,year,type,number,doi,code,cref,repl
+W9,"Sadhukhan, Tathagata and Wilms, Ines and Smeekes, Stephan and Basu, Sumanta", "Autotune: fast, accurate, and automatic tuning parameter selection for LASSO","2025","arXiv e-print","2512.11139","10.48550/arXiv.2512.11139","Autotune R package","https://github.com/Tathagata-S/Autotune",
 W8,"Haimerl, Paul and Smeekes, Stephan and Wilms, Ines","Estimation of Latent Group Structures in Time-Varying Panel Data Models","2025","arXiv e-print","2503.23165","10.48550/arXiv.2503.23165","PAGFL R package","https://cran.r-project.org/package=PAGFL","https://github.com/Paul-Haimerl/replication-fuse-time"
 W7,"Wegner, Enrico and Lieb, Lenard and Smeekes, Stephan and Wilms, Ines","Transmission channel analysis in dynamic models","2025","arXiv e-print","2405.18987","10.48550/arXiv.2405.18987","TCA toolbox","https://enweg.github.io/tca-website/","https://github.com/enweg/tca-replication-material"
 W6,"Adamek, Robert and Smeekes, Stephan and Wilms, Ines","Sparse high-dimensional vector autoregressive bootstrap","2025","arXiv e-print","2302.01233","10.48550/arXiv.2302.01233",,,"https://github.com/RobertAdamek/sparseVARrepro"

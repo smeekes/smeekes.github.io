@@ -15,7 +15,7 @@ Questions and comments on the bootUR package are welcome via the [GitHub page](h
 ### desla {#sec-desla}
 ##### R package for desparsified lasso inference for time series
 
-The R package `desla`, developed by Robert Adamek, is available on [CRAN](https://cran.r-project.org/package=desla) and [GitHub](https://github.com/RobertAdamek/desla). This package allows for inference in high-dimensional time series models via the desparsified lasso as proposed in the papers "Lasso inference for high-dimensional time series" and "Local projection inference in high dimensions".
+The R package `desla`, developed by Robert Adamek, is available on [CRAN](https://cran.r-project.org/package=desla) and [GitHub](https://github.com/RobertAdamek/desla). This package allows for inference in high-dimensional time series models via the desparsified lasso as proposed in the papers "Lasso inference for high-dimensional time series" and "Local projection inference in high dimensions."
 
 ### specs {#sec-specs}
 ##### R package for penalized single-equation error-correction models
@@ -25,17 +25,22 @@ The R package `specs`, developed by Etienne Wijler, is available on [CRAN](https
 ### HDGCvar {#sec-HDGCvar}
 ##### R package for Granger causality testing in high-dimensional vector autoregressive models 
 
-The R package `HDGCvar`, developed by Luca Margaritella, is available on [GitHub](https://github.com/Marga8/HDGCvar). This package allows for testing Granger causality in high-dimensional vector autoregressive models (VARs) as proposed in the papers "Granger causality testing in high-dimensional VARs: a Post-Double-Selection procedure" and "Inference in non-stationary high-dimensional VARs".
+The R package `HDGCvar`, developed by Luca Margaritella, is available on [GitHub](https://github.com/Marga8/HDGCvar). This package allows for testing Granger causality in high-dimensional vector autoregressive models (VARs) as proposed in the papers "Granger causality testing in high-dimensional VARs: a Post-Double-Selection procedure" and "Inference in non-stationary high-dimensional VARs."
 
 ### PAGFL {#sec-PAGFL}
 ##### R package for estimating latent group structures in panel data
 
-The R package `PAGFL`, developed by Paul Haimerl, is available on [CRAN](https://cran.r-project.org/package=PAGFL) and [GitHub](https://github.com/Paul-Haimerl/PAGFL). This package allows for estimating latent group structures by implementing the pairwise adaptive group fused Lasso (PAGFL) proposed by [Mehrabani (2023)](https://doi.org/10.1016/j.jeconom.2022.12.002) and its extendsion to time-varying coefficient functions as proposed in the paper "Estimation of Latent Group Structures in Time-Varying Panel Data Models".
+The R package `PAGFL`, developed by Paul Haimerl, is available on [CRAN](https://cran.r-project.org/package=PAGFL) and [GitHub](https://github.com/Paul-Haimerl/PAGFL). This package allows for estimating latent group structures by implementing the pairwise adaptive group fused Lasso (PAGFL) proposed by [Mehrabani (2023)](https://doi.org/10.1016/j.jeconom.2022.12.002) and its extendsion to time-varying coefficient functions as proposed in the paper "Estimation of Latent Group Structures in Time-Varying Panel Data Models."
+
+### Autotune {#sec-Autotune}
+##### R package for fast, accurate, and automatic LASSO tuning parameter selection
+
+The R package `Autotune`, developed by Tathagata Sadhukhan, is available on [GitHub](https://github.com/Tathagata-S/Autotune). This package implements the *Autotune* method, as proposed in the paper "Autotune: fast, accurate, and automatic tuning parameter selection for LASSO."
 
 ### Transmission Channel Analysis {#sec-TCA}
 ##### Toolbox for estimating dynamic transmission channels
 
-The [TCA toolbox](https://enweg.github.io/tca-website/) developed by Enrico Wegner allows for estimating transmission channels as proposed in the paper "Transmission Channel Analysis in Dynamic Models". 
+The [TCA toolbox](https://enweg.github.io/tca-website/) developed by Enrico Wegner allows for estimating transmission channels as proposed in the paper "Transmission Channel Analysis in Dynamic Models." 
 There is both a [Julia version](https://github.com/enweg/TransmissionChannelAnalysis.jl) and [Matlab version](https://github.com/enweg/tca-matlab-toolbox) available.
 
 ### Individual Codes {#sec-codes}
@@ -46,15 +51,15 @@ The codes are provided without any warranty whatsoever and will not be updated e
 :::
 
 ----
-[Code and data](https://doi.org/10.3886/E205441V1) for replication of the results in the paper "Min(d)ing the President: A text analytic approach to measuring tax news".
-[R code](https://github.com/cateschi/Time_varying_correlation) for estimating the state space model proposed in the paper "Time-varying correlations in multivariate unobserved components time series models".
-[R code](code/ClimateAnalysis.zip) and [Python code](https://github.com/girpas-ulg/trendfit) for the trend analysis methods proposed in the paper "A statistical analysis of time trends in atmospheric ethane".
-[R code and datasets](https://github.com/cateschi/KalmanFilter) for the estimation of the high-dimensional state space model proposed in the paper "A dynamic factor model approach to incorporate Big Data in state space models for official statistics".
-[MATLAB code](code/Fixed-Design-Residual-Bootstrap-VaR.zip) for residual bootstrap methods for VaR developed in the paper "A residual bootstrap for conditional Value-at-Risk".
-[R code](code/AWB.zip) for the AWB trend inference method developed in the paper "Autoregressive wild bootstrap inference for nonparametric trends".
-[MATLAB toolbox](code/WIMP.zip) for the WIMP method developed in the paper "Inference for impulse responses under model uncertainty". The code and data in the toolbox allow for replication of the WIMP confidence bands for all the identification schemes used in the empirical study in the paper.
-[GAUSS code](code/RBBPPT_GSS.zip)^[The zip-files with Gauss codes contain two files: a ‘.gss’ file with the original Gauss code, and a ‘.src’ file with modifications of that code such that it can be run in OxGauss.] and [R code](code/RBBPPT_R.zip)^[The R code has been tested to give (almost) identical output to the Gauss output using a limited number of datasets.] for the bootstrap panel predictability tests developed in the paper "Robust block bootstrap panel predictability tests".
-[GAUSS code](code/ECMSBC_GSS.zip) for the bootstrap ECM cointegration tests developed in the paper "A sieve bootstrap test for cointegration in a conditional error correction model".
+[Code and data](https://doi.org/10.3886/E205441V1) for replication of the results in the paper "Min(d)ing the President: A text analytic approach to measuring tax news."
+[R code](https://github.com/cateschi/Time_varying_correlation) for estimating the state space model proposed in the paper "Time-varying correlations in multivariate unobserved components time series models."
+[R code](code/ClimateAnalysis.zip) and [Python code](https://github.com/girpas-ulg/trendfit) for the trend analysis methods proposed in the paper "A statistical analysis of time trends in atmospheric ethane."
+[R code and datasets](https://github.com/cateschi/KalmanFilter) for the estimation of the high-dimensional state space model proposed in the paper "A dynamic factor model approach to incorporate Big Data in state space models for official statistics."
+[MATLAB code](code/Fixed-Design-Residual-Bootstrap-VaR.zip) for residual bootstrap methods for VaR developed in the paper "A residual bootstrap for conditional Value-at-Risk."
+[R code](code/AWB.zip) for the AWB trend inference method developed in the paper "Autoregressive wild bootstrap inference for nonparametric trends."
+[MATLAB toolbox](code/WIMP.zip) for the WIMP method developed in the paper "Inference for impulse responses under model uncertainty." The code and data in the toolbox allow for replication of the WIMP confidence bands for all the identification schemes used in the empirical study in the paper.
+[GAUSS code](code/RBBPPT_GSS.zip)^[The zip-files with Gauss codes contain two files: a ‘.gss’ file with the original Gauss code, and a ‘.src’ file with modifications of that code such that it can be run in OxGauss.] and [R code](code/RBBPPT_R.zip)^[The R code has been tested to give (almost) identical output to the Gauss output using a limited number of datasets.] for the bootstrap panel predictability tests developed in the paper "Robust block bootstrap panel predictability tests."
+[GAUSS code](code/ECMSBC_GSS.zip) for the bootstrap ECM cointegration tests developed in the paper "A sieve bootstrap test for cointegration in a conditional error correction model."
 ----
 
 : {.striped .hover}
@@ -67,10 +72,10 @@ The methods covered by these codes are all available in the bootUR package, the 
 :::
 
 ----
-[GAUSS code](code/MWB_GSS.zip) and [R code](code/MWB_R.zip) for the modified wild bootstrap tests developed in the paper "A multivariate invariance principle for modified wild bootstrap methods with an application to unit root testing". The code includes the lag length selection methods developed in the paper "Lag length selection for unit root tests in the presence of nonstationary volatility".
-[GAUSS code](code/BSQTUR_GS.zip) and [R code](code/BSQT_R.zip) for the bootstrap sequential quantile tests developed in the paper "Bootstrap sequential tests to determine the order of integration of individual units in a time series panel".
-[GAUSS code](code/BUTUR_GSS.zip) for the bootstrap union tests developed in the paper "Bootstrap union tests for unit roots in the presence of nonstationary volatility".
-[GAUSS code](code/ECMSBC.zip) for the bootstrap panel unit root tests developed in the paper "Cross-sectional dependence robust block bootstrap panel unit root tests".
+[GAUSS code](code/MWB_GSS.zip) and [R code](code/MWB_R.zip) for the modified wild bootstrap tests developed in the paper "A multivariate invariance principle for modified wild bootstrap methods with an application to unit root testing." The code includes the lag length selection methods developed in the paper "Lag length selection for unit root tests in the presence of nonstationary volatility."
+[GAUSS code](code/BSQTUR_GS.zip) and [R code](code/BSQT_R.zip) for the bootstrap sequential quantile tests developed in the paper "Bootstrap sequential tests to determine the order of integration of individual units in a time series panel."
+[GAUSS code](code/BUTUR_GSS.zip) for the bootstrap union tests developed in the paper "Bootstrap union tests for unit roots in the presence of nonstationary volatility."
+[GAUSS code](code/ECMSBC.zip) for the bootstrap panel unit root tests developed in the paper "Cross-sectional dependence robust block bootstrap panel unit root tests."
 ----
 
 : {.striped .hover}
