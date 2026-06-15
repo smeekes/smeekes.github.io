@@ -51,6 +51,8 @@ reference-location: document
 ### In the Media
 * My inaugural lecture [Time Will Tell: Econometric Intelligence to Unravel a Complex World](https://www.maastrichtuniversity.nl/events/inaugural-lecture-dr-stephan-smeekes) from September 11, 2025 is available on [YouTube](https://www.youtube.com/watch?v=RXxCNeKzLbg).
 
+* In December 2024, I was interviewed by [UMagazine](https://www.maastrichtuniversity.nl/news-events/umagazine) about my personal and academic life: available in [Dutch](https://www.maastrichtuniversity.nl/nl/nieuws/%E2%80%9Cik-denk-oplossingen%E2%80%9D) and [English](https://www.maastrichtuniversity.nl/news/%E2%80%9Ci-think-terms-solutions%E2%80%9D).
+
 * Every year I contribute to the annual question posted by the website [Beste-ID](https://www.beste-id.nl/auteurs/stephan-smeekes).
 
 * My research in 100 seconds: [How to Make Sense of Your Data?](https://umio-prime.nl/how-to-make-sense-of-your-data/)
