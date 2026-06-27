@@ -13,12 +13,12 @@ My teaching entails both course coordination (including lecturing and tutoring) 
 
 Currently I teach the following courses:
 
-* [EBC4218](http://code.unimaas.nl/Code/Display?SearchString=EBC4218) – Big Data Econometrics ^*MSc EOR + EFR*^
-* [EBS4043](http://code.unimaas.nl/Code/Display?SearchString=EBS4043) – Computational Research Skills ^*MSc EOR*^
-* [EBS4044](http://code.unimaas.nl/Code/Display?SearchString=EBS4044) – Computational Research Skills ^*MSc EFR*^
-* [EBC2107](http://code.unimaas.nl/Code/Display?SearchString=EBC2107) – Mathematical Statistics ^*BSc EOR*^
-* [EBC2011](http://code.unimaas.nl/Code/Display?SearchString=EBC2011) – Quantitative Methods 3 - Statistics ^*BSc EBE*^
-* [EBS4024](http://code.unimaas.nl/Code/Display?SearchString=EBS4024) – Writing a Referee Report ^*MSc EFR*^
+* [EBC4218](http://code.unimaas.nl/Code/Display?SearchString=EBC4218) – Big Data Econometrics ^*MSc-EOR+EFR*^
+* [EBS4043](http://code.unimaas.nl/Code/Display?SearchString=EBS4043) – Computational Research Skills ^*MSc-EOR*^
+* [EBS4044](http://code.unimaas.nl/Code/Display?SearchString=EBS4044) – Computational Research Skills ^*MSc-EFR*^
+* [EBC2107](http://code.unimaas.nl/Code/Display?SearchString=EBC2107) – Mathematical Statistics ^*BSc-EOR*^
+* [EBC2011](http://code.unimaas.nl/Code/Display?SearchString=EBC2011) – Quantitative Methods 3 - Statistics ^*BSc-EBE*^
+* [EBS4024](http://code.unimaas.nl/Code/Display?SearchString=EBS4024) – Writing a Referee Report ^*MSc-EFR*^
 
 ::: {.column-margin}
 *EOR*: Econometrics and Operations Research <br>
