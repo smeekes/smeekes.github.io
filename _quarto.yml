@@ -13,7 +13,9 @@ website:
       href: https://github.com/smeekes
     background: primary
     foreground: light
-    logo: "img/wlogoUM.png"
+    logo:
+      light: "img/UMlogo dblue web.png"
+      dark: "img/UMlogo white web.png"
     logo-href: "https://www.maastrichtuniversity.nl/"
     left:
       - href: index.qmd
@@ -38,3 +40,5 @@ format:
     link-external-newwindow: true
     reference-location: margin
     respect-user-color-scheme: true
+    mainfont: "Fira Sans"
+    title-block-banner-color: "#BEDDF7"

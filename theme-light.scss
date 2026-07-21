@@ -1,9 +1,25 @@
 /*-- scss:defaults --*/
-$UMdblue:    #001C3D !default;
-$UMlblue:  #00A2DB !default;
-$UMorangered:  #E84E10 !default;
-$UMred:     #AE0B12 !default;
-$UMorange:  #F39425 !default;
+$UMdblue0:    #001C3D !default;
+$UMlblue0:  #00A2DB !default;
+$UMorangered0:  #E84E10 !default;
+$UMred0:     #AE0B12 !default;
+$UMorange0:  #F39425 !default;
+
+$UMdblue: #000831 !default;
+$UMmblue: #355BD0 !default;
+$UMlblue: #BEDDF7 !default;
+$UMred: #640322 !default;
+$UMorange: #EA7C69 !default;
+$UMpink: #F9C4B8 !default;
+$UMdbrown: #510702 !default;
+$UMlbrown: #89361F !default;
+$UMyellow: #F1E798 !default;
+$UMdgreen: #003538 !default;
+$UMmgreen: #0F7564 !default;
+$UMlgreen: #D9FFD6 !default;
+$UMblack: #141414 !default;
+$UMlpink: #FFEDE9 !default;
+$UMwhite: #FCFCFC !default;
 
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
@@ -16,31 +32,31 @@ $gray-700: #7b8a8b !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
-$boxx:    mix($UMlblue, $white, 5) !default;
+$boxx:    mix($UMlblue, $UMwhite, 20) !default;
 
 
-$primary:       $UMdblue !default;
-$secondary:     $UMlblue !default;
-$success:       $UMlblue !default;
-$info:          $UMlblue !default;
-$warning:       $UMorangered !default;
+$primary:       $UMwhite !default;
+$secondary:     $UMdblue !default;
+$success:       $UMmblue !default;
+$info:          $UMmblue !default;
+$warning:       $UMorange !default;
 $danger:        $boxx !default;
-$light:         mix($UMlblue, $white, 10) !default;
-$dark:          mix($UMlblue, $black, 60)  !default;
+$light:         $UMdblue !default;
+$dark:          $UMmblue !default;
+
 
 $link-color: $success !default;
 
 $link-decoration: none !default;
 
-$callout-color-note: $UMlblue;
-$callout-color-tip: $UMlblue;
+$callout-color-note: $UMmblue;
+$callout-color-tip: $UMmgreen;
 
 
 /*-- scss:rules --*/
-h1, h3, h6 {
+h2, h3, h4, h5, h6 {
   color: $UMdblue;
 }
-
-h2, h4, h5 {
-  color: $UMlblue;
+h1 {
+  color: $UMmblue;
 }

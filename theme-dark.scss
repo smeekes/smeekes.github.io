@@ -1,9 +1,26 @@
 /*-- scss:defaults --*/
-$UMdblue:    #001C3D !default;
-$UMlblue:  #00A2DB !default;
-$UMorangered:  #E84E10 !default;
-$UMred:     #AE0B12 !default;
-$UMorange:  #F39425 !default;
+$UMdblue0:    #001C3D !default;
+$UMlblue0:  #00A2DB !default;
+$UMorangered0:  #E84E10 !default;
+$UMred0:     #AE0B12 !default;
+$UMorange0:  #F39425 !default;
+
+$UMdblue: #000831 !default;
+$UMmblue: #355BD0 !default;
+$UMlblue: #BEDDF7 !default;
+$UMred: #640322 !default;
+$UMorange: #EA7C69 !default;
+$UMpink: #F9C4B8 !default;
+$UMdbrown: #510702 !default;
+$UMlbrown: #89361F !default;
+$UMyellow: #F1E798 !default;
+$UMdgreen: #003538 !default;
+$UMmgreen: #0F7564 !default;
+$UMlgreen: #D9FFD6 !default;
+$UMblack: #141414 !default;
+$UMlpink: #FFEDE9 !default;
+$UMwhite: #FCFCFC !default;
+
 $UMdmblue:   mix($UMdblue, white, 30) !default;
 $UMlmblue:   mix($UMlblue, white, 80) !default;
 
@@ -18,30 +35,32 @@ $gray-600: #95a5a6 !default;
 $gray-700: #7b8a8b !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
-$gray-bg: #181818 !default;
+$gray-bg:  $UMblack !default;
 $black:    #000 !default;
 $boxx:    mix($UMlblue, $gray-bg, 10) !default;
 
 
 $primary:       $UMdblue !default;
 $secondary:     $UMlblue !default;
-$success:       $UMlmblue !default;
-$info:          $UMlblue !default;
-$warning:       $UMorangered !default;
+$success:       $UMlblue !default;
+$info:          $UMmblue !default;
+$warning:       $UMorange !default;
 $danger:        $boxx !default;
-$light:         mix($UMlblue, $white, 10) !default;
-$dark:          mix($UMlblue, $black, 60)  !default;
+$light:         $UMlblue !default;
+$dark:          $UMdblue !default;
 
-$link-color: $success !default;
+$titles:       $UMmblue !default;
+
+$link-color: mix($UMlblue, $UMmblue, 50) !default;
 
 $link-decoration: none !default;
 
-$callout-color-note: $UMlmblue;
-$callout-color-tip: $UMlmblue;
+$callout-color-note: $UMmblue;
+$callout-color-tip: $UMmgreen;
 
 // Base document colors
-$body-bg: $gray-bg;
-$body-color: $white;
+$body-bg: $UMblack;
+$body-color: $UMwhite;
 $code-bg: $gray-800;
 $code-color: $gray-100;
 
@@ -50,10 +69,9 @@ $code-block-bg-alpha: -.8;
 
 
 /*-- scss:rules --*/
-h1, h3, h6 {
-  color: $UMdmblue;
+h2, h3, h4, h5, h6 {
+  color: $UMlblue;
 }
-
-h2, h4, h5 {
-  color: $UMlmblue;
+h1 {
+  color: $UMmblue;
 }
