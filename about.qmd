@@ -67,6 +67,8 @@ Maastricht University
 
 ::: {.callout-note collapse="true"}
 ## Grants, Honors and Awards
+**SSH Open Competition L** | NWO | Econometric Intelligence for Complex Time Series | *with I. Wilms* | 2026 - 2032
+
 **Elected Member** | [KNAW Young Academy](https://www.dejongeakademie.nl/) | 2019 - 2024
 
 **Excellent Undergraduate Educator Award** | Maastricht University, School of Business and Economics | 2017
@@ -106,7 +108,7 @@ Maastricht University
 
 [Caterina Schiavoni](https://www.linkedin.com/in/caterinaschiavoni/) | *Multivariate State Space Methods for Official Statistics and Climate Modelling* | with J. van den Brakel and F.C. Palm | Defended Nov 4, 2021
 
-[Yicong Lin](http://yiconglin.com/) | *Essays on Nonstationary Nonlinear Models* | with E. Beutner | Defended Oct 6, 2021
+[Yicong Lin](https://yiconglin.com/) | *Essays on Nonstationary Nonlinear Models* | with E. Beutner | Defended Oct 6, 2021
 
 [Etienne Wijler](https://sites.google.com/view/etiennewijler) | *High-dimensional time series analysis: unit roots, cointegration and forecasting* | with A. Hecq and J.-P. Urbain | Defended Jan 14, 2021
 
