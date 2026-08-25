@@ -35,7 +35,7 @@ The R package `PAGFL`, developed by Paul Haimerl, is available on [CRAN](https:/
 ### Autotune {#sec-Autotune}
 ##### R package for fast, accurate, and automatic LASSO tuning parameter selection
 
-The R package `Autotune`, developed by Tathagata Sadhukhan, is available on [GitHub](https://github.com/Tathagata-S/Autotune). This package implements the *Autotune* method, as proposed in the paper "Autotune: fast, accurate, and automatic tuning parameter selection for LASSO."
+The R package `Autotune`, developed by Tathagata Sadhukhan, is available on [CRAN](https://cran.r-project.org/package=autotune) and [GitHub](https://github.com/Tathagata-S/Autotune). This package implements the *Autotune* method, as proposed in the paper "Autotune: fast, accurate, and automatic tuning parameter selection for LASSO."
 
 ### Transmission Channel Analysis {#sec-TCA}
 ##### Toolbox for estimating dynamic transmission channels
