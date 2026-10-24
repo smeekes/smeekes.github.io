@@ -22,9 +22,13 @@ create_authors <- function(author, type = "html") {
         } else {
           connect <- ", "
         }
-        names_text[i] <- paste0(names_text[i], connect, 
-                                create_initials(authors_first_i[[j]], dotspace),
-                                " ", authors_last_i[j])
+        if (authors_first_i[[j]][1] == "others") {
+          names_text[i] <- paste0(names_text[i], connect, authors_first_i[[j]])
+        } else {
+          names_text[i] <- paste0(names_text[i], connect, 
+                                  create_initials(authors_first_i[[j]], dotspace),
+                                  " ", authors_last_i[j])
+        }
       }
     }
   }
