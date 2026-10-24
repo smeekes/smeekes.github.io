@@ -28,7 +28,7 @@ reference-location: document
 
 * The [SoilTemp Database](https://www.soiltempproject.com/) project maintained by the team of [Jonas Lembrechts](https://the3dlab.org/).
 
-* The [Data Science team](https://www.mumc.nl/research/kemta/ons-team/kemta-icu) at the Intensive Care Unit of the MUMC+ hospital.
+* Intensivist [Bas van Bussel](https://www.carimmaastricht.nl/about/people/bas-van-bussel) and the [Data Science team](https://www.mumc.nl/research/kemta/ons-team/kemta-icu) at the Intensive Care Unit of the MUMC+ hospital.
 
 ### Maastricht University
 
@@ -59,7 +59,7 @@ reference-location: document
 
 * In October 2020, Etienne Wijler and I gave an online talk for UMIO in the Afternoon Tea & Talent session [How Smart Is Your Algorithm?](https://umio-prime.nl/how-smart-is-your-algorithm/) Also see the accompanying article [A Taste of Big Data Analysis: Sour Milk or Luxury Ice Cream?](https://umio-prime.nl/a-taste-of-big-data-analysis/).
 
-* In March 2020, I participated in the Dutch popular science TV show Knappe Koppen. In the episode [When will the next economic crisis take place?](https://www.avrotros.nl/knappe-koppen/gemist/detail/item/wanneer-komt-de-volgende-economische-crisis-11-03-2020/) I gave a mini-lecture about economic forecasting and the difficulties that we encounter in the process.[^2]
+* In March 2020, I participated in the Dutch popular science TV show Knappe Koppen. In the episode [When will the next economic crisis take place?](https://tvblik.nl/knappe-koppen-avtrotros/financiele-bubbels) I gave a mini-lecture about economic forecasting and the difficulties that we encounter in the process.[^2]
 
 [^2]: The recording took place in January 2020, before the Covid crisis started to unfold. In hindsight this makes my answer "I have no idea about the next crisis" a bit silly... On the other hand, it does illustrate why predicting crises is so complicated!
 
